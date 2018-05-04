@@ -1,0 +1,21 @@
+{
+  "name": "typescript webpack starter",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "rongping.lrp@alibaba-inc.com <rongping.lrp@alibaba-inc.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
